@@ -1,6 +1,6 @@
 ![](https://github.com/Aldikitta/Aldikitta/blob/main/GITHUB%204-01.png)
 <h1 align="center">Hi 👋, I'm Aldi Kitta</h1>
-<h3 align="center">A passionate Modern Android Developer with Kotlin and Jetpack Compose</h3>
+<h3 align="center">A passionate Modern Android Developer with Kotlin and Jetpack</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldikitta&label=Profile%20views&color=0e75b6&style=flat" alt="aldikitta" /> </p>
  -->
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [www.aldikitta.com](www.aldikitta.com)
 
-- 💬 Ask me about **Kotlin and Jetpack Compose**
+- 💬 Ask me about **Kotlin and Jetpack**
 
 - 📫 How to reach me **Andi.kitta77@gmail.com**
 
