@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Andi.kitta77@gmail.com**
 
-- ⚡ Fun fact **Introvert**
+- ⚡ Fun fact **All of my Jetpack Compose App use Material 3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
