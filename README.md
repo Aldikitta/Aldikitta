@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/aldikitta" target="blank"><img src="https://img.shields.io/twitter/follow/aldikitta?logo=twitter&style=for-the-badge" alt="aldikitta" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin with modern Android Architecture Components**
+- 🌱 I’m currently learning **Kotlin with Modern Android Development**
 
 - 👨‍💻 All of my projects are available at [www.aldikitta.com](www.aldikitta.com)
 
