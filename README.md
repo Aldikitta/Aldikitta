@@ -1,4 +1,4 @@
-![](https://github.com/Aldikitta/Aldikitta/blob/main/GITHUB%204-01.png)
+![](https://github.com/Aldikitta/Aldikitta/blob/main/GITHUB2.png)
 <h1 align="center">Hi 👋, I'm Aldi Kitta</h1>
 <h3 align="center">A passionate Modern Android Developer with Kotlin and Jetpack</h3>
 
