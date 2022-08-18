@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kotlin with Modern Android Development**
 
-- 👨‍💻 All of my projects are available at [https://aldikitta.com/](www.aldikitta.com)
+- 👨‍💻 All of my projects are available at **https://www.aldikitta.com**
 
 - 💬 Ask me about **Kotlin and Jetpack**
 
