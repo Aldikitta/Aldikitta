@@ -8,13 +8,13 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/aldikitta" target="blank"><img src="https://img.shields.io/twitter/follow/aldikitta?logo=twitter&style=for-the-badge" alt="aldikitta" /></a> </p> -->
 
-- 🌱 **Kotlin, Jetpack Compose**
+- **Kotlin, Jetpack Compose**
 
-- 👨‍💻 **https://www.aldikitta.com**
+- **https://www.aldikitta.com**
 
-- 📫 **Andi.kitta77@gmail.com**
+- **Andi.kitta77@gmail.com**
 
-- ⚡ **All of my Jetpack Compose App use Material 3**
+- **All of my Jetpack Compose App use Material 3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
