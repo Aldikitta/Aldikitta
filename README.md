@@ -1,4 +1,4 @@
-![](https://github.com/Aldikitta/Aldikitta/blob/main/GITHUB2.png)
+![](https://github.com/Aldikitta/Aldikitta/blob/main/BannerGit.png)
 <!-- <h1 align="center">I'm Aldi Kitta</h1> -->
 <!-- <h3 align="center">Android Developer</h3> -->
 
