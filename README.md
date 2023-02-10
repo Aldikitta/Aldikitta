@@ -1,6 +1,6 @@
 ![](https://github.com/Aldikitta/Aldikitta/blob/main/GITHUB2.png)
 <h1 align="center">I'm Aldi Kitta</h1>
-<h3 align="center">Android Developer</h3>
+<!-- <h3 align="center">Android Developer</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldikitta&label=Profile%20views&color=0e75b6&style=flat" alt="aldikitta" /> </p>
  -->
@@ -8,7 +8,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/aldikitta" target="blank"><img src="https://img.shields.io/twitter/follow/aldikitta?logo=twitter&style=for-the-badge" alt="aldikitta" /></a> </p> -->
 
-- **Kotlin, Jetpack Compose**
+- **Kotlin All The Time**
 
 - **https://www.aldikitta.com**
 
