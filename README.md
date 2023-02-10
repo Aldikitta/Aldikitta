@@ -1,5 +1,5 @@
 ![](https://github.com/Aldikitta/Aldikitta/blob/main/GITHUB2.png)
-<h1 align="center">I'm Aldi Kitta</h1>
+<!-- <h1 align="center">I'm Aldi Kitta</h1> -->
 <!-- <h3 align="center">Android Developer</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldikitta&label=Profile%20views&color=0e75b6&style=flat" alt="aldikitta" /> </p>
@@ -14,7 +14,7 @@
 
 - **Andi.kitta77@gmail.com**
 
-- **All of my Jetpack Compose App use Material 3**
+<!-- - **All of my Jetpack Compose App use Material 3** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
