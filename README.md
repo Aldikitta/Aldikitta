@@ -24,17 +24,17 @@
 </p>
 
 ### Github Statistics ###
-<p align="left">
+<p align="center">
 <a href="https://github.com/aldikitta">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aldikitta&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aldikitta&show_icons=true&locale=en&theme=gotham"/>
 </a>
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/aldikitta">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aldikitta&langs_count=6&layout=compact&show_icons=true&theme=gotham"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aldikitta&layout=compact&langs_count=6&theme=gotham"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aldikitta&langs_count=6&layout=compact&show_icons=true&theme=gotham"/>
 </a>
 </p>
 
