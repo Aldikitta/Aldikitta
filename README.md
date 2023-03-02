@@ -1,6 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ![](https://github.com/Aldikitta/Aldikitta/blob/main/BannerGit.png)
 <!-- ![](https://github.com/Aldikitta/Aldikitta/blob/main/GITHUB2.png) -->
 
